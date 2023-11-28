@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartNafro</string>
+    <string name="doctor">Doctor</string>
+    <string name="user">User</string>
+    <string name="welcome_nafrometer">Welcome NafroMeter</string>
+    <string name="todo">TODO</string>
+</resources>
